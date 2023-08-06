@@ -1,0 +1,15 @@
+/*NAVEBAR */
+/* navebar */
+.fnt{
+    font-family: 'Borel', cursive;
+font-family: 'Open Sans', sans-serif;
+font-size: larger;
+margin-bottom: 0px;
+}
+.spc{
+  margin:0px 20px 0px 0px ;
+ }
+ .nvspc{
+  padding: 8px 16px 2px 16px;
+  opacity: 0.85;
+ }
